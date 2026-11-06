@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "YOUR_REAL_GITHUB_USERNAME",
+    "email": "your@email.com"
+  },
+  "record": {
+    "CNAME": "whatever-you-got.pages.dev"
+  }
+}
